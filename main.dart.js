@@ -9105,9 +9105,9 @@ _.dO$=d
 _.ec$=e
 _.dZ$=f},
 ag7:function ag7(a){this.a=a},
-C4(a,b,c,d,e,f){return A.blH(a,b,c,d,e,f)},
-blH(a,b,c,d,e,f){var s=0,r=A.Z(t.z),q=1,p,o,n,m,l,k,j,i
-var $async$C4=A.a_(function(g,a0){if(g===1){p=a0
+C4(a,b,c,d,e){return A.blH(a,b,c,d,e)},
+blH(a,b,c,d,e){var s=0,r=A.Z(t.z),q=1,p,o,n,m,l,k,j,i
+var $async$C4=A.a_(function(f,g){if(f===1){p=g
 s=q}while(true)switch(s){case 0:if($.z==null)A.Kv()
 $.z.toString
 s=2
@@ -9132,7 +9132,7 @@ break
 case 8:try{for(k=0;k<1;++k){n=b[k]
 n.$0()}}catch(h){m=A.aA(h)}if($.z==null)A.Kv()
 j=$.z
-j.a2G(new A.CB(f,c,d,null,e,null,null,null,null,null,null,null))
+j.a2G(new A.CB(e,c,null,null,d,null,null,null,null,null,null,null))
 j.Eu()
 return A.X(null,r)
 case 1:return A.W(p,r)}})
@@ -9160,7 +9160,7 @@ break
 default:s=B.d9}A.b9N(B.L5,s,A.dd(0,0,1),new A.aS6(a,null))},
 aS6:function aS6(a,b){this.a=a
 this.b=b},
-aYP(){var s,r,q=null,p=A.G(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials",!0,"Access-Control-Allow-Headers",u.M,"Access-Control-Allow-Methods","POST, OPTIONS"],t.N,t.z)
+aYP(){var s,r,q=null,p=A.G(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials",!0,"Access-Control-Allow-Headers",u.M,"Access-Control-Allow-Methods","GET,POST,OPTIONS,DELETE,PUT"],t.N,t.z)
 p=A.aT_(B.lD,J.bR($.aSo()),p,B.ff)
 s=new A.yl(A.a([B.kX],t.i6))
 r=new A.DX($,s,$,new A.CK(A.aWb()),!1)
@@ -10422,7 +10422,7 @@ aQf:function aQf(){},
 aQg:function aQg(){},
 b4m(){switch(0){case 0:$.aXS.b=$.bgA
 break}var s=A.b0Y("Phong th\u1ee7y s\u1ed1")
-A.C4(A.a([],t.tG),A.a([new A.aRI()],t.b),new A.aRJ(),"/start",A.a2T(B.b4,"MindBoggle",null),s)},
+A.C4(A.a([],t.tG),A.a([new A.aRI()],t.b),new A.aRJ(),A.a2T(B.b4,"MindBoggle",null),s)},
 aRJ:function aRJ(){},
 aRI:function aRI(){},
 l8:function l8(a,b){this.a=a
@@ -10577,7 +10577,7 @@ afR:function afR(a){this.a=a},
 WC:function WC(a){this.a=a},
 bcV(){var s,r=null,q=t.S,p=t.N,o=t.K2,n=A.a([A.G([19,"Ma K\u1ebft"],q,p),A.G([20,"B\u1ea3o B\xecnh"],q,p)],o),m=A.a([A.G([18,"B\u1ea3o B\xecnh"],q,p),A.G([19,"Song Ng\u01b0"],q,p)],o),l=A.a([A.G([20,"Song Ng\u01b0"],q,p),A.G([21,"B\u1ea1ch D\u01b0\u01a1ng"],q,p)],o),k=A.a([A.G([19,"B\u1ea1ch D\u01b0\u01a1ng"],q,p),A.G([20,"Kim Ng\u01b0u"],q,p)],o),j=A.a([A.G([20,"Kim Ng\u01b0u"],q,p),A.G([21,"Song T\u1eed"],q,p)],o),i=A.a([A.G([21,"Song T\u1eed"],q,p),A.G([22,"C\u1ef1 Gi\u1ea3i"],q,p)],o),h=A.a([A.G([22,"C\u1ef1 Gi\u1ea3i"],q,p),A.G([23,"S\u01b0 T\u1eed"],q,p)],o),g=A.a([A.G([22,"S\u01b0 T\u1eed"],q,p),A.G([23,"X\u1eed N\u1eef"],q,p)],o),f=A.a([A.G([22,"X\u1eed N\u1eef"],q,p),A.G([23,"Thi\xean B\xecnh"],q,p)],o),e=A.a([A.G([22,"Thi\xean B\xecnh"],q,p),A.G([23,"Thi\xean Y\u1ebft"],q,p)],o),d=A.a([A.G([21,"Thi\xean Y\u1ebft"],q,p),A.G([22,"Nh\xe2n M\xe3"],q,p)],o)
 o=A.a([A.G([21,"Nh\xe2n M\xe3"],q,p),A.G([22,"Ma K\u1ebft"],q,p)],o)
-p=A.G(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials",!0,"Access-Control-Allow-Headers",u.M,"Access-Control-Allow-Methods","POST, OPTIONS"],p,t.z)
+p=A.G(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials",!0,"Access-Control-Allow-Headers",u.M,"Access-Control-Allow-Methods","GET,POST,OPTIONS,DELETE,PUT"],p,t.z)
 p=A.aT_(B.lD,J.bR($.aSo()),p,B.ff)
 q=new A.yl(A.a([B.kX],t.i6))
 s=new A.DX($,q,$,new A.CK(A.aWb()),!1)
@@ -10677,7 +10677,7 @@ arT:function arT(a){this.a=a},
 arS:function arS(a){this.a=a},
 arR:function arR(a,b){this.a=a
 this.b=b},
-bcW(a){var s,r,q=null,p=A.G(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials",!0,"Access-Control-Allow-Headers",u.M,"Access-Control-Allow-Methods","POST, OPTIONS"],t.N,t.z)
+bcW(a){var s,r,q=null,p=A.G(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials",!0,"Access-Control-Allow-Headers",u.M,"Access-Control-Allow-Methods","GET,POST,OPTIONS,DELETE,PUT"],t.N,t.z)
 p=A.aT_(B.lD,J.bR($.aSo()),p,B.ff)
 s=new A.yl(A.a([B.kX],t.i6))
 r=new A.DX($,s,$,new A.CK(A.aWb()),!1)
@@ -81778,8 +81778,9 @@ $.z.toString
 s=$.bx()
 if(s.gKa()!=="/"){$.z.toString
 s=s.gKa()}else{r=this.a.ax
-if(r==null){$.z.toString
-s=s.gKa()}else s=r}return s},
+$.z.toString
+s=s.gKa()
+s=s}return s},
 aF(){var s=this
 s.aY()
 s.anz()
