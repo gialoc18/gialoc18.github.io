@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0529a902acdd6e006271f047b0940e14",
+  "assets/AssetManifest.json": "574f17cdc0ca7f89284d218a0f4c1ce5",
 "assets/assets/icons/blaze.png": "2fc08db02418198d6a8d607f122352b6",
 "assets/assets/icons/bread.png": "274b9fa47195e1248fdd3005097f8fd8",
 "assets/assets/icons/coffee.png": "c897c3297b4f3bfcd500f7b7a851d366",
@@ -45,21 +45,21 @@ const RESOURCES = {
 "assets/assets/images/plate-food.jpg": "9e396139c2a14b5a180db813975fc0af",
 "assets/assets/images/plate-food1.jpg": "4d048f723382705a0814361081d96649",
 "assets/assets/images/user.jpg": "cfc7a816ae47c56facf455491b35fc30",
+"assets/assets/images/zodiacs/ico7.png": "20b1f858116698dad7e2bc9e9b17668e",
 "assets/assets/images/zodiacs/icon0.png": "7fcb54ba0f32f6e2992171220aba0494",
 "assets/assets/images/zodiacs/icon1.png": "c4343f3e309b1151fa8e9a2d97a93233",
-"assets/assets/images/zodiacs/icon10.png": "27bf53dc25c67d8afc8e9469c991ac5b",
-"assets/assets/images/zodiacs/icon11.png": "dd6c18c0a9ae57696f61fb5db864a52a",
-"assets/assets/images/zodiacs/icon12.png": "828c040f289ca7e71506f9a0d79c298c",
+"assets/assets/images/zodiacs/icon10.png": "dd6c18c0a9ae57696f61fb5db864a52a",
+"assets/assets/images/zodiacs/icon11.png": "828c040f289ca7e71506f9a0d79c298c",
 "assets/assets/images/zodiacs/icon2.png": "8e825631a132b78efdcd32cece651cf5",
 "assets/assets/images/zodiacs/icon3.png": "4e0446e148ede9aecc1feacff9fb7c45",
-"assets/assets/images/zodiacs/icon5.png": "b0d6151d5b8eb24e15b1643e5ea3274b",
-"assets/assets/images/zodiacs/icon6.png": "bb322d463b53a8996bfadfcd64edba12",
-"assets/assets/images/zodiacs/icon7.png": "003c33b4e1e7211845263d42705b3827",
-"assets/assets/images/zodiacs/icon8.png": "20b1f858116698dad7e2bc9e9b17668e",
-"assets/assets/images/zodiacs/icon9.png": "36ca119fc248c40f611c41b28e977300",
+"assets/assets/images/zodiacs/icon4.png": "b0d6151d5b8eb24e15b1643e5ea3274b",
+"assets/assets/images/zodiacs/icon5.png": "bb322d463b53a8996bfadfcd64edba12",
+"assets/assets/images/zodiacs/icon6.png": "003c33b4e1e7211845263d42705b3827",
+"assets/assets/images/zodiacs/icon8.png": "36ca119fc248c40f611c41b28e977300",
+"assets/assets/images/zodiacs/icon9.png": "27bf53dc25c67d8afc8e9469c991ac5b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "b8c6d31f2fc347621bd40aa9bd8c9777",
+"assets/NOTICES": "9289258514ddd3ff30ae376d7025f82c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -71,11 +71,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "228de710e1c1f9bab50c6708bf1e6239",
-"/": "228de710e1c1f9bab50c6708bf1e6239",
-"main.dart.js": "f5e1bd198923d41e26c8d93daecba283",
+"index.html": "51d8dede96393471077e5221860ff69c",
+"/": "51d8dede96393471077e5221860ff69c",
+"main.dart.js": "9941b908fb28e17749b6f67e224e8d1b",
 "manifest.json": "337fbd5671357c8c166d74e98a8397da",
-"version.json": "1546ee7c07e76845bf8c0e72caa027a8"
+"version.json": "6a46e5130b35fad7ed8ac70334f8df84"
 };
 
 // The application shell files that are downloaded before a service worker can
